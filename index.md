@@ -48,7 +48,17 @@ Silhouette:
 
 ![](images\tugas2_silhoette.JPG)
 
+Data Excel: 
 
+[https://github.com/ramadhanqa/18044110098_tugas1_dm/blob/master/file/data%20tugas2.xlsx]: 	"Data Excel Orange"
+
+Data K-means Excel Manual:
+
+[https://github.com/ramadhanqa/18044110098_tugas1_dm/blob/master/file/tugas%202%20kmeans.xlsx]: 	"Data K-means Excel MANUAL"
+
+Data Orange ows
+
+[https://github.com/ramadhanqa/18044110098_tugas1_dm/blob/master/file/tugas2.ows]: 	"Data Orange ows"
 
 
 
