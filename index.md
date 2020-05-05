@@ -1,3 +1,41 @@
+# Tugas klasifikasi k-NN menggunakan Orange
+
+Nama : Ramadhan Qoridhatul Alfarizi
+
+NIM : 180441100098
+
+Dosen pengampu : Mulaab, S.Si. M.KOM
+
+Data Latih 
+
+![](images\data_latih.jpg)
+
+Data diatas menjadi data acuan dalam mengklasifikasikan class data menggunakan metode k-NN dari data Uji 
+
+Data Latih :
+
+![](images\data_uji.jpg)
+
+Data Uji ini akan di sinkronkan dengan data latih sebelumnya
+
+Project yg didapat 
+
+![](images\linear_projek.jpg)
+
+simbol lingkaran : Iris Setosa ( sepalwidth - sepallength)
+
+simbol silang : Iris-versi color (petallenght - sepallength)
+
+simbol segitiga : Iris-viginica color (petallenght - sepallength)
+
+Data diatas didapat setelah data latih melalui klasifikasi k-NN lalu di prediksi dan selanjutnya dihasilkan grafik Linear Projection 
+
+
+
+Setelah itu data Latih di sinkronkan dengan data Uji yang selanjutnya akan diprediksi class nya didapan sehingga mendapat class seperti berikut .
+
+![](images\prediksi_datauji.jpg)
+
 # Tugas Data Mining 2
 
 Nama : Ramadhan Qoridhatul Alfarizi
